@@ -257,7 +257,7 @@ header.shadow {
 .about-text p {
   font-size: var(--p-font);
   font-weight: 400;
-  text-align: center;
+  text-align: justify;
 }
 .information {
   margin: 1rem 0 1.4rem;
