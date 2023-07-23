@@ -257,7 +257,7 @@ header.shadow {
 .about-text p {
   font-size: var(--p-font);
   font-weight: 400;
-  text-align: justify;
+  text-align: center;
 }
 .information {
   margin: 1rem 0 1.4rem;
@@ -587,9 +587,7 @@ form textarea {
 .project img {
   filter: brightness(1.4) contrast(1.4) saturate(150%)drop-shadow(0 0 10px rgb(182, 176, 176));
 }
-.certificates img {
-  filter: brightness(1.4) contrast(1.4) saturate(150%)drop-shadow(0 0 10px rgb(141, 132, 132));
-}
+
 * {
   box-sizing: border-box;
   margin: 0;
